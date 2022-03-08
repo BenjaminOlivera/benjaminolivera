@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Brain Benjamin Olivera Colonio</h1>
+<h1 align="center">Hi 👋, I'm Brian Benjamin Olivera Colonio</h1>
 <h3 align="center">A passionate frontend developer from Peru</h3>
 
 - 🌱 I’m currently learning **rails,javascript**
