@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Brian Benjamin Olivera Colonio</h1>
-<h3 align="center">A passionate Fullstack developer from Peru</h3>
+<h3 align="center">A passionate Ruby on Rails Fullstack developer from Peru</h3>
 
 
 
